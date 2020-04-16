@@ -1,6 +1,6 @@
 {
   "name": "testing_warehouse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "测试用的仓库",
   "main": "index.js",
   "scripts": {
