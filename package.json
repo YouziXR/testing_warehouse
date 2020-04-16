@@ -1,0 +1,27 @@
+{
+  "name": "testing_warehouse",
+  "version": "1.0.0",
+  "description": "测试用的仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouziXR/testing_warehouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YouziXR/testing_warehouse/issues"
+  },
+  "homepage": "https://github.com/YouziXR/testing_warehouse#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
